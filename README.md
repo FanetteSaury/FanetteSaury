@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Bonjour 👋
 😄 I'm Fanette Saury, a computer science student at EPITA (L'École pour l’informatique et les techniques avancées) and pursuing an apprenticeship at BECYCURE, as a cybersecurity analyst.<br>
 📍 Backpacking regular based in Paris, France.
 # 💫 About Me:
