@@ -10,9 +10,7 @@ Currently working on a number of side and school projects related to security, s
 ![](https://nirzak-streak-stats.vercel.app/?user=FanetteSaury&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FanetteSaury&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🌐 Contact:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fanette_s) 
-[email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:compscifrenchie@gmail.com) 
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fanette_s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:compscifrenchie@gmail.com) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **FanetteSaury/FanetteSaury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
